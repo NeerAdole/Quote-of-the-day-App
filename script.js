@@ -1,8 +1,8 @@
 const quotes = [
     "The only limit to our realizarion of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
-    "It does not matter how slowly you go as long as youbdo not stop. - Confucious",
+    "It does not matter how slowly you go as long as you do not stop. - Confucious",
     "The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson",
-    "GYou can't build a reputation on what you are going to do. - Henry Ford",
+    "You can't build a reputation on what you are going to do. - Henry Ford",
     "What we fear the most is usually what we most need to do. - Tim Ferriss"
 ];
 
